@@ -19,6 +19,7 @@ body{
     height: 520px;
     background-color: lightgray;
     margin: 0 auto;
+    top: 70px;
     position: relative;
     border-radius: 5px;
     background-position: center;
