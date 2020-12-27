@@ -3,7 +3,7 @@ body{
    background-color: black;
 }
 
-.container {
+#container {
     height: 1000px;
     width: 550px;
     background-color: #A9C9FF;
@@ -14,7 +14,7 @@ body{
     margin: 20px auto
 }
 
-.calculator {
+#calculator {
     width: 320px;
     height: 520px;
     background-color: lightgray;
@@ -24,15 +24,15 @@ body{
     background-position: center;
 }
 
-.result{
+#result{
     height: 120px;
 }
 
-.keyboard{
+#keyboard{
     height: 400px;
 }
 
-.history {
+#history {
     text-align: right;
     height: 20px;
     margin: 0 20px;
@@ -41,7 +41,7 @@ body{
     color: #919191;
 }
 
-.output{
+#output{
     text-align: right;
     height: 60px;
     margin: 10px 20px;
